@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorApp</string>
+    <string name="please_enter_your_name_and_password">Please enter your name and password</string>
+    <string name="enter_name_here">Enter name here:</string>
+    <string name="enter_your_password">Enter your password:</string>
+    <string name="login">Login</string>
+    <string name="enter_favorite_color">Enter favorite color:</string>
+    <string name="enter">Enter</string>
+    <string name="hello_please_pick_a_color_that_you_like_0_blue_1_orange_2_pink_3_green_4_red">Hello, please pick a color that you like: 0=Blue, 1=orange, 2=pink, 3=green, 4=red</string>
+    <string name="displayButton">Proceed</string>
+    <string name="play_again">play again</string>
+    <string name="textview">TextView</string>
+</resources>
